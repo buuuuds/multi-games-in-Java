@@ -6,11 +6,11 @@ A collection of simple games written in Java. This project is ideal for beginner
 
 ## 🕹️ Games Included
 
-- ✅ Tic Tac Toe – Classic 3x3 board game for two players.
-- ✅ Rock Paper Scissors – Play against a simple AI.
-- ✅ Number Guessing Game – Try to guess a randomly selected number within limited attempts.
+- ✅ **Tic Tac Toe** – Classic 3x3 board game for two players.  
+- ✅ **Rock Paper Scissors** – Play against a simple AI.  
+- ✅ **Number Guessing Game** – Try to guess a randomly selected number within limited attempts.
 
-*More games may be added in the future!*
+_More games may be added in the future!_
 
 ---
 
@@ -18,36 +18,33 @@ A collection of simple games written in Java. This project is ideal for beginner
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 8 or higher
-- A code editor or IDE (e.g., IntelliJ, Eclipse, VS Code)
-- Command line interface or terminal
+- Java Development Kit (JDK) 8 or higher  
+- A code editor or IDE (e.g., IntelliJ, Eclipse, VS Code)  
+- Command line interface or terminal  
 
-🛠 Features
-Simple command-line interface
+### Features
 
-Modular code for each game
+- Simple command-line interface  
+- Modular code for each game  
+- Beginner-friendly  
+- Clean and commented Java code  
 
-Beginner-friendly
+---
 
-Clean and commented Java code
+## 📌 Future Improvements
 
-📌 Future Improvements
-Add game selection menu
+- Add game selection menu  
+- Save and load scores  
+- Create GUI using Java Swing or JavaFX  
+- Add more games such as:  
+  - Hangman  
+  - Snake Game  
+  - Memory Card Game  
 
-Save and load scores
+---
 
-Create GUI using Java Swing or JavaFX
+## Installation
 
-Add more games like:
-
--- Hangman
--- Snake Game
--- Memory Card Game
-
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/buuuuds/multi-games-in-Java.git
-   cd multi-games-in-Java
+```bash
+git clone https://github.com/buuuuds/multi-games-in-Java.git
+cd multi-games-in-Java
