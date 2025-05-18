@@ -6,9 +6,8 @@ A collection of simple games written in Java. This project is ideal for beginner
 
 ## 🕹️ Games Included
 
-- ✅ **Tic Tac Toe** – Classic 3x3 board game for two players.  
-- ✅ **Rock Paper Scissors** – Play against a simple AI.  
-- ✅ **Number Guessing Game** – Try to guess a randomly selected number within limited attempts.
+- ✅ Worm – Classic snake-style game where you control a growing worm and avoid crashing into yourself.
+- ✅ BoxHop – A side-scrolling arcade game similar to Flappy Bird, where you tap to hop through obstacles.
 
 _More games may be added in the future!_
 
@@ -38,7 +37,7 @@ _More games may be added in the future!_
 - Create GUI using Java Swing or JavaFX  
 - Add more games such as:  
   - Hangman  
-  - Snake Game  
+  - Tic-Tac-Toe 
   - Memory Card Game  
 
 ---
